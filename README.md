@@ -1,5 +1,3 @@
-# Sales-Analyzer
-
 #  Sales-Analyzer
 
 Sales-Analyzer is a Python-based **Data Analysis and Data Visualization project** developed using **Pandas, NumPy, Matplotlib, and Seaborn**.  
